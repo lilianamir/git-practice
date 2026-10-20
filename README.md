@@ -1,1 +1,3 @@
-# git-practice
+#Git practice
+
+my first time trying git
